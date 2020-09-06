@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0%
+}
+.containar{
+    max-width: 1000px;
+    background: rgb(39, 129, 156);
+    margin: 0px auto;
+    padding: 10px;
+    color: rgb(6, 248, 208);
+    margin-top: 40px;
+    border: 3px solid;
+
+}
+header{
+    padding-bottom: 100px;
+}
+.photo{
+    width: 100px;
+    height: 100px;
+    border: 1px white solid;
+    border-radius: 50%;
+    float: left;
+}
+.name{
+float: left;
+padding: 30px;
+}
+.contact{
+    float: right;
+    padding: 30px;
+}
+.contact a{
+     text-decoration: none;
+     color: rgb(6, 248, 208);
+     
+}
+.contact :hover a{
+       color: tomato;
+       text-decoration: underline;
+}
+.clear{
+    clear: both;
+}
+.dak{
+    border: 3px solid black;
+    border-bottom: none;
+    width: 100%;
+}
+.full{
+     
+}
+.personal-div{
+       color: aqua;
+       text-decoration: none;
+       padding-top: 50px; 
+       float: left;
+}
+.information{
+float: right;
+color: black;
+padding-top: 30px;
+padding-right: 160px;
+}
+hr{
+    width: 100%;
+    border: 1px solid rgb(61, 57, 61);
+}
+.information2{
+    float: right;
+    color: black;
+    padding-top: 1px;
+    padding-right: 30px;
+}
+.personal-div2{
+    color: aqua;
+       text-decoration: none;
+        padding-top: 50px;
+       float: left;
+}
+.information3{
+    float: right;
+    color: black;
+    padding-top: 33px;
+    padding-right: 90px;
+    padding-bottom: 40px;
+}
+.last{
+    background: black;
+    color: white;
+    text-align-last: center;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.last a{
+   
+    color: white;
+    margin: 20px;
+    text-decoration: none;
+}
+.last p{
+    margin: 20px;
+    color: white;
+}
+.last a:hover{
+   
+    color: tomato;
+    
+    text-decoration: underline;
+}
